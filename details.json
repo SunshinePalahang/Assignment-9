@@ -18,5 +18,10 @@
     "skills":{ 
         "hard": "Microsoft Office \nTroubleshooting \nComputer Programming \n Video Editing",
         "soft": "Communication \nTimekeeping \nProblem Solving \nCritical Thinking \nOrganization"
+    },
+    "educbg":{
+        "school": "Polytechnic University of the Philippines",
+        "yearlevel": "Senior High School",
+        "acadyear": "2019-2021"
     }
 }
