@@ -15,4 +15,8 @@
         "height": "5'0",
         "weight": "47kg"
     },
+    "skills":{ 
+        "hard": "Microsoft Office \nTroubleshooting \nComputer Programming \n Video Editing",
+        "soft": "Communication \nTimekeeping \nProblem Solving \nCritical Thinking \nOrganization"
+    }
 }
