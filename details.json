@@ -1,11 +1,9 @@
-{
-    "basics":{
+[
+    {
         "name": "Sunshine Richmer Duave Palahang",
         "phone": "09666794829",
         "email": "palahangshane@gmail.com",
-        "summary": "Computer Engineering major with a strong research background and great passion to further my career in Engineering with a position that will allow me to expand my horizons, working towrads a career in the same industry"
-    },
-    "vitae":{
+        "summary": "Computer Engineering major with a strong research background and great passion to further my career in Engineering with a position that will allow me to expand my horizons, working towrads a career in the same industry",
         "birthday": "July 30, 2003",
         "father": "Richard L. Palahang",
         "foccupation": "Government Employee",
@@ -13,15 +11,11 @@
         "occupation": "None",
         "religion": "Roman Catholic",
         "height": "5'0",
-        "weight": "47kg"
-    },
-    "skills":{ 
+        "weight": "47kg",
         "hard": "Microsoft Office \nTroubleshooting \nComputer Programming \n Video Editing",
-        "soft": "Communication \nTimekeeping \nProblem Solving \nCritical Thinking \nOrganization"
-    },
-    "educbg":{
+        "soft": "Communication \nTimekeeping \nProblem Solving \nCritical Thinking \nOrganization",
         "school": "Polytechnic University of the Philippines",
         "yearlevel": "Senior High School",
         "acadyear": "2019-2021"
     }
-}
+]
